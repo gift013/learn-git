@@ -5,6 +5,6 @@
 - SVN
 - CVS
 - Monotone
-- Market place
+- GNU Bazaar
 - jj
 
